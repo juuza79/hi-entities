@@ -1,2 +1,3 @@
 # hi-entities
-just a test repository
+
+Eccoci qui a scrivere un esempio di un file readme!
